@@ -16,6 +16,7 @@ Team Divider
 !join GAME_ID [USER_NAME]
 !leave GAME_ID [USER_NAME]
 
+!next GAME_ID
 !show GAME_ID
 
 !help
